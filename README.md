@@ -2,7 +2,7 @@
 
 ---
 
-* [英文文档在这 - English Introduction is Here](https://github.com/pyecharts/pyecharts-gallery/blob/master/README_EN.md)
+中文 | [English](./README_EN.md)
 
 ---
 

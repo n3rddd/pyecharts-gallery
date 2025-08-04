@@ -2,6 +2,10 @@
 
 ---
 
+[中文](./README.md) | English
+
+---
+
 ## Project Introduction
 
 * **Project based on pyecharts 2.0.3**
